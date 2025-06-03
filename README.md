@@ -6,9 +6,13 @@ This dashboard visualizes the results of a survey conducted among 630 data profe
 📌 Dashboard Features
 
 Treemap of survey takers by country
+
 Bar chart of average salary by job title
+
 Pie chart on the difficulty of breaking into the data field
+
 Gauge charts for work-life balance and salary satisfaction
+
 Bar graph of favorite programming languages by job role
 
 🛠️ Tools Used
